@@ -1,6 +1,6 @@
 # GitHub Username Checker
 
-Este programa verifica la disponibilidad de nombres de usuario en GitHub. Utiliza una combinación de letras y números para generar todos los posibles nombres de usuario de 3 caracteres y luego verifica si están disponibles en GitHub.
+Este programa verifica la disponibilidad de nombres de usuario en GitHub. Utiliza una combinación de letras y números para generar todos los posibles nombres de usuario de 4 caracteres y luego verifica si están disponibles en GitHub.
 
 ![ㅤ](-.png)
 
@@ -18,5 +18,8 @@ Este programa verifica la disponibilidad de nombres de usuario en GitHub. Utiliz
 ```sh 
 pip install -r requirements.txt
 ```
-3. Ejecuta el programa con python main.py.
+3. Ejecuta el programa con 
+```sh 
+python main.py
+```
 4. El programa comenzará a verificar la disponibilidad de nombres de usuario y escribirá los resultados en el archivo `available_usernames.log`
