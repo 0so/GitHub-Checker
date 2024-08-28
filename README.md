@@ -14,11 +14,11 @@ Este programa verifica la disponibilidad de nombres de usuario en GitHub. Utiliz
 ## Cómo ejecutar
 
 1. Clona el repositorio.
-2. Instala las dependencias necesarias ejecutando 
+2. Instala las dependencias necesarias 
 ```sh 
 pip install -r requirements.txt
 ```
-3. Ejecuta el programa con 
+3. Ejecuta el programa  
 ```sh 
 python main.py
 ```
